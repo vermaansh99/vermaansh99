@@ -1,18 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ansh</h1>
 
-<h1>Heading</h1>
 
-<!--
-**vermaansh99/vermaansh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A passionate fullstack developer from India in MERN.</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on [js-pool](https://github.com/Ammyy9908/js-pool)
+
+- 🌱 I’m currently learning **swift language**
+
+- 💬 Ask me about **react,express,mongodb**
+
+- 📫 How to reach me **sb78639@gmail.com**
+
+- 📄 Know about my experiences [https://www.sumitbighaniya.live/](https://www.sumitbighaniya.live/r)
+
+- ⚡ Fun fact **I am moody.**
