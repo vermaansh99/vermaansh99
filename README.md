@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ansh</h1>
 
 
-<h3 align="center">A passionate Data Science Student looking for a job in India in MERN.</h3>
+<h3 align="center">A passionate Data Science Student looking for a job in India as Data Analyst/Data Scientist.</h3>
 
 
 
