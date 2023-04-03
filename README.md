@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Python,machine_learning,Mysql,Tableau,NLP,Statistics,Deep_Learning**
+- 💬 Ask me about **Python,machine_learning,Mysql,Tableau,NLP,Statistics,Deep_Learning,statistics**
 
 - 📫 How to reach me **anshverma2073@gmail.com**
 
