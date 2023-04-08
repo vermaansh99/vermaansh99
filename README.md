@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently learning [Statistics,python,machine learning, mysql,tableau,NLP,Deep learning](https://github.com/vermaansh99)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **Python,machine_learning,Mysql,Tableau,NLP,Statistics,Deep_Learning,**
 
