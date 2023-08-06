@@ -13,6 +13,6 @@
 
 - 📫 How to reach me **anshverma2073@gmail.com**
 
-- <a href= "https://www.linkedin.com/in/ansh-verma-1aa4a11b6"
+- <a href= "https://www.linkedin.com/in/ansh-verma-1aa4a11b6"/>
 
 - ⚡ Fun fact **I am moody.**
